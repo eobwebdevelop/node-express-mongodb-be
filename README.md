@@ -10,4 +10,4 @@ This is the Backend of the to-do list proyect
 
 **After that the proyect should be ready to run it, to do that you just need to run "node server.js"
 
-*************IMPORTANT: The port where the BE is runing is 8081 while FE needs to run at the same time on 8081 port
+*************IMPORTANT: The port where the BE is runing is 8080 while FE needs to run at the same time on 8081 port
